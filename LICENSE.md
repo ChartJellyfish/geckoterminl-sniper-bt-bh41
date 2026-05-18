@@ -1,4 +1,4 @@
-# 
+# new MEV arbitrage bot scripts is the best MEV arbitrage bot scripts with slippage-control and gas-optimization. Safe, reliable, and optimized for MEV, sniper, and arbitrage
 
 
 
